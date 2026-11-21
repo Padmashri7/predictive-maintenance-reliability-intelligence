@@ -4,8 +4,6 @@
 
 A manufacturing reliability project combining operational data analysis and machine learning to investigate equipment failures, understand sensor-related risk patterns and identify opportunities for more targeted maintenance inspections.
 
----
-
 ## The Maintenance Challenge
 
 Unexpected machine failures can interrupt production, increase maintenance costs and affect operational efficiency.
@@ -196,16 +194,5 @@ The analysis suggests several areas for further operational investigation:
 | [Predictive_Maintenance_Business_Intelligence.ipynb](./Predictive_Maintenance_Business_Intelligence.ipynb) | Reliability analysis, sensor investigations, operating-condition risk and maintenance recommendations |
 | [Predictive%20Maintenance%20with%20ML.ipynb](./Predictive%20Maintenance%20with%20ML.ipynb) | Feature preparation, Logistic Regression, Random Forest, model evaluation and feature importance |
 | [images/](./images/) | Extracted project visualisations |
-
-## Running the Notebooks
-
-1. Clone or download this repository.
-2. Install the required Python libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` and `eli5`.
-3. Obtain the AI4I 2020 Predictive Maintenance dataset.
-4. Place `ai4i2020.csv` in the same working directory as the notebooks.
-5. Open the notebooks in Jupyter Notebook.
-6. Run the cells in sequence.
-
----
 
 *This project demonstrates how manufacturing data analysis and predictive modelling can work together to support evidence-based equipment reliability investigations and maintenance planning.*
